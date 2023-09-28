@@ -1,3 +1,7 @@
 What is the difference between a merge and a rebase?
 
 A merge keeps previous code history while a rebase rewrites it. 
+
+What is a remote repository?
+
+A repository that is not on your local computer.
