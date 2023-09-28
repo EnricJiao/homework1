@@ -1,0 +1,3 @@
+What is the difference between a merge and a rebase?
+
+A merge preserves the code history while a rebase does not. 
